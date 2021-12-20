@@ -1,4 +1,3 @@
 
 <Version: 0.11>
-/data/Maps002.json
 <End of Version>
